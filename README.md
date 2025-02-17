@@ -45,13 +45,13 @@
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
-## Activities:
+## Activities: 
 
 <table style="width:100%;">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntsang2511&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="ntsang2511" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=ntsang2511&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="ntsang2511" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ntsang2511&count_private=true&include_all_commits=true&show_icons=true&theme=default&bg_color=FFFFFF00&text_color=179fa3&custom_title=Hoạt%20động%20trên%20Github&token=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" alt="ntsang2511" width="100%"/>
     </td>
     <td>
       <p align="center"> 
