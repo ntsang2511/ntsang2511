@@ -41,7 +41,7 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
   <img src="https://img.icons8.com/?size=100&id=KIcFwp9MNQL5&format=png&color=e0531f" alt="Postman" width="48" height="48"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwh-2btrw1P54k-yIKqG_lsB_SVc48vGzWZQ&s" alt="Redux" width="48" height="48"/>
+  <img src="https://img.icons8.com/?size=100&id=DgDldTbM9fXB&format=png&color=764abc" alt="Redux" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
