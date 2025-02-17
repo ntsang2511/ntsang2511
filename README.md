@@ -40,8 +40,8 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://media.licdn.com/dms/image/v2/C560BAQFf8sH83foEVg/company-logo_200_200/company-logo_200_200/0/1654794308958/postman_platform_logo?e=2147483647&v=beta&t=a5LsRCE_TyPzRMSE1RpVH8Mo3C3G7_DqW5Q1ZAt3ADo" alt="Postman" width="48" height="48"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
+  <img src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000" alt="Postman" width="48" height="48"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwh-2btrw1P54k-yIKqG_lsB_SVc48vGzWZQ&s" alt="Redux" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
