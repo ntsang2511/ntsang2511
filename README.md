@@ -7,7 +7,7 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
-> ✍ I am a full-stack web development intern.
+✍ I am a full-stack web development intern.
 
 <br />
 
