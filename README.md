@@ -5,7 +5,7 @@
 <h2 align="center">Hi 👋, I'm Nguyễn Tấn Sang</h2>
 <h3>A passionate developer from Vietnam 🇻🇳</h3>
 
-✍ I am a full-stack web development intern.
+✍ I am a full-stack web development.
 
 📝 You can review my [CV ONLINE](https://ntsang2511.github.io/cv-nguyen-tan-sang/) here
 
